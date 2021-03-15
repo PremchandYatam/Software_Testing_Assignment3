@@ -9,11 +9,13 @@ public class CalculatorTest {
 
     @BeforeClass
     public static void setup() {
+
         calc =new Calculator();
     }
 
     @Test
     public void testadd() {
+
         assertEquals(10,calc.add(5, 5));
     }
 }
