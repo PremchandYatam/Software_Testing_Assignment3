@@ -6,13 +6,13 @@ public class Calculator {
     public int add(int a, int b){
         return 0;
     }
-    public int sub(int c,int d) {
+    public int sub(int a,int b) {
         return 0;
     }
-    public int mul(int e,int f) {
+    public int mul(int a,int b) {
         return 0;
     }
-    public int div(int g,int h) {
+    public int div(int a,int b) {
         return 0;
     }
 
