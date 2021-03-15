@@ -7,7 +7,7 @@ public class Calculator {
 
         return 0;
     }
-    public int sub(int a,int b) {
+    public int sub(int C,int D) {
 
         return 0;
     }
